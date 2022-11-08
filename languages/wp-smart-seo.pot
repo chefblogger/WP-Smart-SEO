@@ -1,0 +1,237 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Smart SEO\n"
+"POT-Creation-Date: 2022-09-22 08:39+0200\n"
+"PO-Revision-Date: 2022-09-21 18:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-smart-seo.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin-form.php:12
+msgid "A little SEO plugin, which generate Metatags for each Post or Page:"
+msgstr ""
+
+#: admin-form.php:15
+msgid "og:type"
+msgstr ""
+
+#: admin-form.php:16
+msgid "og:title"
+msgstr ""
+
+#: admin-form.php:17
+msgid "og:description"
+msgstr ""
+
+#: admin-form.php:18
+msgid "og:image"
+msgstr ""
+
+#: admin-form.php:19
+msgid "twitter:title"
+msgstr ""
+
+#: admin-form.php:20
+msgid "twitter:description"
+msgstr ""
+
+#: admin-form.php:21
+msgid "twitter:image"
+msgstr ""
+
+#: admin-form.php:144
+msgid "Status Global Textfield"
+msgstr ""
+
+#: admin-form.php:154 admin-form.php:161
+msgid "Yes"
+msgstr ""
+
+#: admin-form.php:155 admin-form.php:162
+msgid "No"
+msgstr ""
+
+#: admin-form.php:168 admin-form.php:179
+msgid "Save"
+msgstr ""
+
+#: admin-form.php:172
+msgid "Global Textfield"
+msgstr ""
+
+#: admin-form.php:174
+msgid "Inserted at the End of each Title"
+msgstr ""
+
+#: admin-form.php:185
+msgid "Reset"
+msgstr ""
+
+#: admin-form.php:191
+msgid "Plugin recommendation"
+msgstr ""
+
+#: admin-form.php:192
+msgid ""
+"if you need an xml sitemap for your wordpress, i recommend my other plugin "
+"called \"Simple XML Sitemap Generator\"."
+msgstr ""
+
+#: admin-form.php:193 admin-form.php:196
+msgid "Download:"
+msgstr ""
+
+#: admin-form.php:195
+msgid ""
+"If you want to install google analytics (Universal and GA4), then I "
+"recommend this plugin \"Quick Google Analytics\"."
+msgstr ""
+
+#: admin-form.php:198
+msgid "all 3 plugins work perfectly together"
+msgstr ""
+
+#: admin-form.php:202
+msgid "Information"
+msgstr ""
+
+#: admin-form.php:203
+msgid "This \"WP Smart SEO\" Plugin is created by"
+msgstr ""
+
+#: error_field.php:12
+msgid "ERROR - Field empty"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: meta_box.php:19
+msgid "WP Smart SEO"
+msgstr ""
+
+#: meta_box_category.php:20 meta_box_category.php:100
+msgid "Google Title"
+msgstr ""
+
+#: meta_box_category.php:22 meta_box_category.php:104
+msgid "This is the Title Meta Tag for Google"
+msgstr ""
+
+#: meta_box_category.php:24 meta_box_category.php:110
+msgid "Google Description"
+msgstr ""
+
+#: meta_box_category.php:26
+msgid "This is the Description Meta Tag for Google"
+msgstr ""
+
+#: meta_box_category.php:30 meta_box_category.php:120
+msgid "Facebook Title"
+msgstr ""
+
+#: meta_box_category.php:32 meta_box_category.php:124
+msgid "This is the Title Meta Tag for Facebook"
+msgstr ""
+
+#: meta_box_category.php:34 meta_box_category.php:130
+msgid "Facebook Description"
+msgstr ""
+
+#: meta_box_category.php:36
+msgid "This is the Description Meta Tag for Facebook"
+msgstr ""
+
+#: meta_box_category.php:38 meta_box_category.php:140
+msgid "Facebook Image"
+msgstr ""
+
+#: meta_box_category.php:40 meta_box_category.php:144
+msgid "This is the Image Meta Tag for Facebook"
+msgstr ""
+
+#: meta_box_category.php:44 meta_box_category.php:150
+msgid "Twitter Title"
+msgstr ""
+
+#: meta_box_category.php:46 meta_box_category.php:154
+msgid "This is the Title Meta Tag for Twitter"
+msgstr ""
+
+#: meta_box_category.php:48 meta_box_category.php:160
+msgid "Twitter Description"
+msgstr ""
+
+#: meta_box_category.php:50
+msgid "This is the Description Meta Tag for Twitter"
+msgstr ""
+
+#: meta_box_category.php:52 meta_box_category.php:170
+msgid "Twitter Image"
+msgstr ""
+
+#: meta_box_category.php:54 meta_box_category.php:174
+msgid "This is the Image Meta Tag for Twitter"
+msgstr ""
+
+#: meta_box_category.php:114
+msgid "This is the description Meta Tag for Google"
+msgstr ""
+
+#: meta_box_category.php:134
+msgid "This is the description Meta Tag for Facebook"
+msgstr ""
+
+#: meta_box_category.php:164
+msgid "This is the description Meta Tag for Twitter"
+msgstr ""
+
+#: meta_box_category.php:180 meta_box_fields.php:62
+msgid "Indexing"
+msgstr ""
+
+#: meta_box_fields.php:7 meta_box_fields.php:25 meta_box_fields.php:46
+msgid "Title"
+msgstr ""
+
+#: meta_box_fields.php:11 meta_box_fields.php:29 meta_box_fields.php:50
+msgid "Description"
+msgstr ""
+
+#: meta_box_fields.php:33
+msgid "Facebook Image URL"
+msgstr ""
+
+#: meta_box_fields.php:54
+msgid "Twitter Image URL"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.chefblogger.me"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WP Smart SEO <a href=\"options-general.php?page=QWA_seomae\">WP Smart SEO "
+"Administration</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Eric-Oliver Mächler"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.ericmaechler.com"
+msgstr ""

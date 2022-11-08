@@ -1,0 +1,83 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.tabelle {
+    width: 100%!important;
+}
+.inputfieldclass {
+    width: 100%!important;
+}
+.counter {
+    float: right;
+    font-weight: bold;
+    color:grey;
+}
+
+
+
+
+
+.seomae_box{
+            display: grid;
+            grid-template-columns: max-content 1fr;
+            grid-row-gap: 10px;
+            grid-column-gap: 20px;
+        }
+.seomae_field{
+            display: contents;
+        }
+
+.seomae_box_home0 {
+	background: #e600ff!important;
+	padding: 10px 10px 10px 10px;
+}
+
+/* meta box h3 */
+
+.seo_metabox_googletwitterfacebook {
+    color: #686868;
+}
+
+#seomae_titel {
+     
+	background: #eeeded; 
+	color:aliceblue;
+	/*
+    padding: 20px 26px 20px;
+    line-height: .8;
+    position: relative;
+    border-radius: 3px 3px 0 0;
+	*/
+}
+
+
+.seo_metabox_labeltitel {
+    color: #000000;
+    font-weight: bold;
+}
+
+#seomae_titel h2{
+     
+	background: #fff; 
+	color:#000;
+	font-size: 20px;
+	/*
+    padding: 20px 26px 20px;
+    line-height: .8;
+    position: relative;
+    border-radius: 3px 3px 0 0;
+	*/
+}
+
+.seomae_error {
+	color:rgb(123, 255, 0)!important;
+	
+}
+
+
+.dots {
+    border-width: 0 0 5px;
+    color: #1e88a1;
+    border-image: linear-gradient(90deg, rgba(135, 206, 235, 0), #1e88a1 50%, rgba(135, 206, 235, 0) 100%) 0 0 100%;
+    border-style: solid;
+}
